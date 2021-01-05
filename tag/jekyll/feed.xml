@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://mw4047.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://mw4047.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-01-05T16:48:37+09:00</updated>
-  <id>https://mw4047.github.io/tag/jekyll/feed.xml</id>
+  <link href="https://hyund0.github.io/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://hyund0.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-01-05T17:17:30+09:00</updated>
+  <id>https://hyund0.github.io/tag/jekyll/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Jekyll 강좌(1) - 블로그를 만들어보아요!!</title>
-      <link href="https://mw4047.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - 블로그를 만들어보아요!!" />
+      <link href="https://hyund0.github.io/jekyll-basic" rel="alternate" type="text/html" title="Jekyll 강좌(1) - 블로그를 만들어보아요!!" />
       <published>2018-09-28T01:40:00+09:00</published>
       <updated>2018-09-28T01:40:00+09:00</updated>
-      <id>https://mw4047.github.io/jekyll-basic</id>
-      <content type="html" xml:base="https://mw4047.github.io/jekyll-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+      <id>https://hyund0.github.io/jekyll-basic</id>
+      <content type="html" xml:base="https://hyund0.github.io/jekyll-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
